@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.excalidraw": "json",
+    "*.excalidrawlib": "json",
+    "*.css": "tailwindcss",
+    "iosfwd": "cpp",
+    "vector": "cpp"
+  }
+}
